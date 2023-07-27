@@ -10,7 +10,7 @@
 
 [VKontakte](https://vk.com/farafemida)⠀⠀⠀⠀[Instagram](https://www.instagram.com/farafemida/)⠀⠀⠀⠀[Twitter](https://twitter.com/FaraFemida)⠀⠀⠀⠀[Steam](https://steamcommunity.com/id/farafemida/)
 
-⠀⠀⠀⠀[YouTube(RUS)](https://www.youtube.com/channel/UC31s0baiSBAiM0jG4quIrqg)⠀⠀⠀⠀[Twitch(RUS/ENG)](https://www.twitch.tv/farafemida])⠀⠀⠀⠀[Telegram(RUS)](https://t.me/femidatg)
+⠀⠀⠀⠀[YouTube(RUS)](https://www.youtube.com/channel/UC31s0baiSBAiM0jG4quIrqg)⠀⠀⠀⠀[Twitch(RUS/ENG)](https://www.twitch.tv/farafemida)⠀⠀⠀⠀[Telegram(RUS)](https://t.me/femidatg)
 
 ### ⠀⠀I showed up here because of a phrase:
 > Try to solve something in CodeWars ©ketamine
